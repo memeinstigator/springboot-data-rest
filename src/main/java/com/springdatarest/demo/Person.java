@@ -20,7 +20,6 @@ public class Person {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
-
     @NonNull
     private String firstName;
 
