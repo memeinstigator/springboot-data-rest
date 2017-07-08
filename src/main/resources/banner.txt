@@ -1,0 +1,9 @@
+*****************************************
+*********** Fin Goals Alive *************
+*****************************************
+*********** Spring Boot     *************
+*****************************************
+
+Application         : ${application.title}
+Application Version : ${application.version}
+Spring Boot Version : ${spring-boot.version}
